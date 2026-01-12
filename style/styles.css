@@ -267,7 +267,7 @@ footer .footer-container{
 
 }
 
-@media screen and (max-width:670px){
+@media screen and (max-width:570px){
     #skills .skills-container{
     width: 95%;
 }
