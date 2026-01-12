@@ -266,11 +266,8 @@ footer .footer-container{
     color: #757575;
 
 }
-.hide {
-    display: none ;
-}
 
-@media screen and (max-width:570px){
+@media screen and (max-width:670px){
     #skills .skills-container{
     width: 95%;
 }
